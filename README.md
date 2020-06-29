@@ -2,8 +2,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Scripts disponíveis
 
-Dentro deste diretório, você pode utilizar:
+Para utilizar a aplicação, siga estas etapas:
 
-### `npm run start`
+```bash
+npm install
+```
 
-Para rodar a aplicação
+Para instalar os node modules
+
+```bash
+npm run start
+```
+
+Para iniciar o servidor e rodar o app
