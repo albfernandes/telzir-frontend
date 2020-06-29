@@ -71,7 +71,7 @@ export default function Form () {
                     </select>
                 </div>
 
-                <button type="submit" className="btn btn-primary">Submit</button>
+                <button type="submit" className="btn btn-primary">Simular</button>
             </CustomForm>
 
             <Display>
